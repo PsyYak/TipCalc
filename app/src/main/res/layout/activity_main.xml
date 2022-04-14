@@ -106,6 +106,7 @@
             />
 
         <EditText
+            android:digits="0123456789"
             android:id="@+id/et_customAmount"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
